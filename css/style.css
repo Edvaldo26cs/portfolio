@@ -1,10 +1,3 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
@@ -397,7 +390,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   NAVBAR
+               NAVBAR
 ======================================*/
 
 .navbar-b {
@@ -597,7 +590,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   INTRO
+              INTRO
 ======================================*/
 
 .intro {
@@ -668,7 +661,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   ABOUT
+               ABOUT
 ======================================*/
 
 .about-mf .box-shadow-full {
@@ -701,7 +694,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   SERVICES
+             SERVICES
 ======================================*/
 
 .service-box {
@@ -740,7 +733,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   COUNTER
+              COUNTER
 ======================================*/
 
 .counter-box {
@@ -765,7 +758,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   PORTFOLIO
+            PORTFOLIO
 ======================================*/
 
 .work-box {
@@ -821,7 +814,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   TESTIMONIALS
+            TESTIMONIALS
 ======================================*/
 
 .testimonials .owl-carousel .owl-item img {
@@ -865,28 +858,23 @@ a:hover {
 
 /* Geral */
 .logo {
-  width: 150px; /* Ajusta o tamanho do logo */
+  width: 150px; 
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-radius: 50%; /* Torna as imagens circulares */
+  border-radius: 50%; 
 }
 
-/* Zoom ao passar o rato */
 .logo:hover {
-  transform: scale(1.1); /* Aumenta o tamanho ligeiramente */
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Adiciona sombra ao passar o rato */
-}
+  transform: scale(1.1); 
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
 
-/* Efeito de rotação */
 .logo:hover {
-  transform: rotate(360deg) scale(1.1); /* Roda e aumenta o tamanho */
-}
+  transform: rotate(360deg) scale(1.1); 
 
-/* Efeito de brilho */
 .logo:hover {
-  box-shadow: 0 0 20px 5px rgba(255, 215, 0, 0.8); /* Adiciona brilho dourado */
+  box-shadow: 0 0 20px 5px rgba(255, 215, 0, 0.8); 
 }
 
-/* Animação contínua (se quiseres aplicar a todos sem hover) */
+/* Animação contínua*/
 @keyframes pulsar {
   0% {
     transform: scale(1);
@@ -904,7 +892,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   BLOG
+/             BLOG
 ======================================*/
 
 .card-blog .card-body {
@@ -959,7 +947,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   BLOG-SINGLE
+           BLOG-SINGLE
 ======================================*/
 
 .post-box,
@@ -1095,7 +1083,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   CONTACT
+             CONTACT
 ======================================*/
 
 .footer-paralax {
@@ -1107,7 +1095,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   FOOTER
+              FOOTER
 ======================================*/
 
 footer {
@@ -1129,7 +1117,7 @@ footer .credits a {
 }
 
 /*======================================
-//--//-->   CONtaCT FORM
+        Contract FORM
 ======================================*/
 
 #sendmessage {
@@ -1167,7 +1155,7 @@ footer .credits a {
 }
 
 /*======================================
-//--//-->   BUTTON
+/              BUTTON
 ======================================*/
 
 .button {
