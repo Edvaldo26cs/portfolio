@@ -11,7 +11,6 @@ Estrutura do Projeto:
 ├── 📁 js
 │ └── main.js
 ├── 📁 lib
-├── 📁 video
 └── README.md
 
 ---
