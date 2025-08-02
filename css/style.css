@@ -813,6 +813,26 @@ a:hover {
   font-size: 1.2rem;
 }
 
+.area-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #343a40;
+  margin: 60px 0 30px;
+  text-transform: uppercase;
+  position: relative;
+}
+
+.area-title::after {
+  content: "";
+  width: 60px;
+  height: 3px;
+  background-color: #0078ff;
+  display: block;
+  margin: 10px auto 0;
+  border-radius: 3px;
+}
+
 /*======================================
             TESTIMONIALS
 ======================================*/
@@ -856,19 +876,41 @@ a:hover {
   line-height: 1.6;
 }
 
+.testimonial-item {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.author {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.content-test {
+  margin-top: 15px;
+}
+
 /* Geral */
 .logo {
   width: 150px; 
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   border-radius: 50%; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100px; /* Ajustável conforme o tamanho desejado */
 }
 
 .logo:hover {
   transform: scale(1.1); 
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+} 
 
 .logo:hover {
   transform: rotate(360deg) scale(1.1); 
+}
 
 .logo:hover {
   box-shadow: 0 0 20px 5px rgba(255, 215, 0, 0.8); 
@@ -943,7 +985,7 @@ a:hover {
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  float: none;
 }
 
 /*======================================
