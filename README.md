@@ -45,6 +45,20 @@ Estrutura do Projeto:
 
 ---
 
+## Dificuldades no desenvolvimento | Developmental difficulties
+
+### 🇵🇹 Em Português:
+1 . A estrutura do código foi um template pronto de um site de templates, apenas o modifiquei.
+2 . Colocar o currículo para ser visualizado foi desafiador, pois o original continha apenas uma imagem flexionada.
+3 . Encontrar os icons próprios das Soft Kills.
+4 . Dividir os certificados, pois precisou entender a estrutura para colocar as divisções em section.
+
+### 🇬🇧 In English:
+1. The code structure was a ready-made template from a template website, which I simply modified.
+2. Displaying the resume was challenging, as the original only contained a flexed image.
+3. Finding the right icons for Soft Kills.
+4. Dividing the certificates, as I needed to understand the structure in order to place the divisions in sections.
+
 📬 Contact: [edvaldonetto@hotmail.com](mailto:edvaldonetto@hotmail.com)  
 🌐 Portfolio: [https://edvaldo26cs.github.io/portfolio](https://edvaldo26cs.github.io/portfolio)
 
